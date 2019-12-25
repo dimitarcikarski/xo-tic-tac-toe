@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">XO</string>
+    <string name="clear">CLEAR TABLE</string>
+    <string name="player1">Player1</string>
+    <string name="all_time">all time</string>
+    <string name="wins">wins !</string>
+    <string name="player1_ingame">Player1</string>
+    <string name="player2ingame">Player2</string>
+    <string name="play">PLAY</string>
+    <string name="statistics">STATISTICS</string>
+    <string name="enter_player_names">Enter player names:</string>
+    <string name="player_one_enter_names">Player 1 :</string>
+    <string name="player_two_enter_names">Player 2 :</string>
+    <string name="best_results">best results</string>
+    <string name="x_won">x won</string>
+    <string name="o_won">o won</string>
+    <string name="tie">tie</string>
+</resources>
